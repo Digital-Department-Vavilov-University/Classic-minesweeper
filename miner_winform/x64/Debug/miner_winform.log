@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  Source.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  miner_winform.vcxproj -> C:\Users\Исаев\Desktop\miner_winform-master\x64\Debug\miner_winform.exe

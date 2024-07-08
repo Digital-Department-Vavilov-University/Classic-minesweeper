@@ -1,0 +1,3 @@
+C:\Users\Исаев\Desktop\miner_winform-master\miner_winform\x64\Debug\miner_winform.vcxproj.AssemblyReference.cache
+C:\Users\Исаев\Desktop\miner_winform-master\miner_winform\x64\Debug\minerwinform.MyForm.resources
+C:\Users\Исаев\Desktop\miner_winform-master\miner_winform\x64\Debug\miner_winform.vcxproj.GenerateResource.cache
